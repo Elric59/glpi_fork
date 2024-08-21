@@ -40,7 +40,7 @@ use Glpi\Toolbox\Sanitizer;
  *  Class used to manage Auth LDAP Group
  */
 
-class GroupsSynchronizer extends CommonDBTM
+class GroupsSynchronizer
 {
 
     /**
